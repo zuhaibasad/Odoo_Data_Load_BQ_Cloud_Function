@@ -1,3 +1,6 @@
+## License
+This project is not licensed. If you want to use, please contact me. 
+
 # Odoo API Data Loader to Google BigQuery
 
 This project extracts data from Odoo REST API endpoints, loads it into Google Cloud Storage, and then into Google BigQuery. The code is designed to run as a Google Cloud Function.
@@ -92,5 +95,3 @@ For the complete list of dependencies, see the `requirements.txt` file【9†sou
 ## Contributing
 Feel free to open issues or contribute to improve the functionality or efficiency of the project. Any contribution is welcome!
 
-## License
-This project is not licensed. If you want to use if, please contact me. 
