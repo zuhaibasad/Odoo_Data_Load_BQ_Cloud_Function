@@ -1,0 +1,13 @@
+{
+  "odoo": {
+    "base_url": "Add Yours",
+    "api_key": "Add Yours",
+    "login": "Add Yours",
+    "password": "Add Yours",
+    "db_name": "Add Yours"
+  },
+  "bigquery": {
+    "project_id": "Add Yours",
+    "dataset_id": "Add Yours"
+  }
+}
